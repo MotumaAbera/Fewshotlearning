@@ -291,3 +291,5 @@ The Amharic dataset source describes 287 handwritten character classes and an im
 This project is suitable for educational and academic use.
 #   F e w s h o t l e a r n  
  
+#   F e w s h o t l e a r n i n g  
+ 
