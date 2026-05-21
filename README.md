@@ -3,7 +3,6 @@
 This project implements a university-level few-shot learning pipeline using a Siamese Neural Network trained with contrastive loss. The goal is to learn an embedding space where same-class images stay close together and different-class images move farther apart, making one-shot recognition possible with very limited labeled examples.
 
 The repository is designed to be:
-
 - Easy to run on a CPU or free Google Colab environment
 - Modular enough for academic discussion and experimentation
 - Ready to use as a GitHub submission or final project artifact
@@ -289,9 +288,13 @@ The Amharic dataset source describes 287 handwritten character classes and an im
 ## License
 
 This project is suitable for educational and academic use.
-#   F e w s h o t l e a r n  
+#   F e w s h o t l e a r n 
  
-#   F e w s h o t l e a r n i n g  
- #   F e w s h o t l e a r n i n g  
- #   F e w s h o t l e a r n i n g  
+ 
+#   F e w s h o t l e a r n i n g 
+ 
+ #   F e w s h o t l e a r n i n g 
+ 
+ #   F e w s h o t l e a r n i n g 
+ 
  
